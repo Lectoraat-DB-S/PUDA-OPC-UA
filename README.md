@@ -19,7 +19,8 @@ Run eerst de volgende comando's om pyhton 3 te krijgen
 Op de raspberry Pi os 64bit zitten de libraries requests en json er al op dus die kun je importen. Mocht dat niet zo zijn kun je ze instaleren via 
 
 	Sudo apt install python-requests	
-	 en  
+en  
+
 	sudo apt install python-json  
 
 Om de paramiko library en de freeopcua library te krijgen moet je de volgende commands runnen. 
@@ -27,7 +28,7 @@ Om de paramiko library en de freeopcua library te krijgen moet je de volgende co
 	Sudo apt install python-paramiko   
 	Sudo apt install pyhton-freeopcua 
 
- 
+ start eerst de OPC UA server en daarna pas de client. 
 
  
 
