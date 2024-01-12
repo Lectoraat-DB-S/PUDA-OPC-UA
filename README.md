@@ -28,7 +28,7 @@ Om de paramiko library en de freeopcua library te krijgen moet je de volgende co
 	Sudo apt install python-paramiko   
 	Sudo apt install pyhton-freeopcua 
 
- start eerst de OPC UA server en daarna pas de client. 
+ start eerst de OPC UA server en daarna pas de OPC UA client. 
 
  
 
